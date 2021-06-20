@@ -12,7 +12,7 @@ Design Robot Control panel with Five sliders for each Motor and 2 Button Save an
 
 - Task 2: Robot Control Panel Back-End (DataBase + PHP)
 
-Connect Robot Control panel with database using php, and PHPMYAdmin.
+Connect Robot Control panel with database using php, and PHPMyAdmin.
 
 ## Note 
 " index.php" This file contains the front-end HTML part and the PHP part for handling the "Save" button whose function is to make the directive on the same page; We don't want to go to another page.
