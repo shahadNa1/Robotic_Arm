@@ -10,8 +10,7 @@ Summer training 2020 at Smart Methods Company.
 
 Design Robot Control panel with Five sliders for each Motor and 2 Button Save and ON.
 
-
--Task 2: Robot Control Panel Back-End (DataBase + PHP)
+- Task 2: Robot Control Panel Back-End (DataBase + PHP)
 
 Connect Robot Control panel with database using php, and PHPMYAdmin.
 
