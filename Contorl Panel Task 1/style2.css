@@ -1,0 +1,175 @@
+@import url(https://fonts.googleapis.com/css?family=Catamaran" rel="stylesheet);
+@import url("https://fonts.googleapis.com/css?family=Dancing+Script");
+
+body {
+  font-family: "OCR A Std", monospace;
+  background: url('https://www.akamai.com/uk/en/multimedia/images/intro/2018/akamai-iot-intro-image.png?imwidth=1366');
+}
+
+.container {
+  font-family:  "OCR A Std", monospace;
+  width: 600px;
+  margin: 30px auto 0;
+  display: block;
+  background: #fff;
+  padding: 10px 50px 50px;
+  border-radius: 4px;
+  box-shadow 0 6px 16px rgba(0,0,0,0.15)
+}
+
+.title {
+  text-align: center;
+  font-family:  "OCR A Std", monospace;
+  color: #3949ab;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.label-container {
+  margin-top: 0.5rem;
+  -webkit-flex-basis: 100%;
+  display: -webkit-flex;
+  -webkit-flex-wrap: nowrap;
+  -webkit-justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.label-slider {
+  color: #3949ab;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+}
+
+.label-slider:nth-child(1) {
+  padding-left: 0px;
+}
+
+.label-slider:nth-child(2) {
+  padding-left: 47px;
+}
+
+.label-slider:nth-child(3) {
+  padding-left: 34px;
+}
+
+.label-slider:nth-child(4) {
+  padding-left: 32px;
+}
+
+.label-slider:nth-child(5) {
+  padding-left: 32px;
+}
+
+.slider-container {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 99%;
+  height: 10px;
+  border-radius: 5px;
+  background: #dde5ff;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+
+}
+
+input[type="range"],
+input[type="range"]::-moz-range-track {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 100%;
+  border-radius: 5px;
+  background: #dde5ff;
+  outline: none;
+  transition: opacity 0.2s;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #2b8aeb;
+  cursor: pointer;
+  outline: none;
+}
+
+input[type="range"]::-moz-range-thumb {
+  -moz-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #1492ea;
+  cursor: pointer;
+  outline: none;
+  z-index: 10;
+}
+
+input[type="range"]:focus {
+  outline: none;
+}
+
+.ticks {
+   font-family: "Catamaran", sans-serif;
+  color: #3949ab;
+  font-size: 14px;
+  font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    height: 6px;
+    margin: 0 10px 0 15px;
+    counter-reset: count -1;
+}
+.ticks > div {
+  height: 100%;
+  width: 1px;
+  background: silver;
+  counter-increment: count 1;
+}
+.ticks > div:nth-child(5n - 4) {
+  height: 200%;
+}
+.ticks > div:nth-child(5n - 4)::before {
+  display: block;
+  content: counter(count,decimal);
+  transform: translate(-50%, 100%);
+  text-align: center;
+  width: 16px;
+}
+
+.button {
+  background-color: #008CBA
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family:  "OCR A Std", monospace;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
