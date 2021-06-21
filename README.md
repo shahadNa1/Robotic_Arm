@@ -10,9 +10,8 @@ Summer training 2020 at Smart Methods Company.
 
 Design Robot Control panel with Five sliders for each Motor and 2 Button Save and ON.
 
-- Task 2: Robot Control Panel Back-End (DataBase + PHP)
+- Task 2: [Robot Control Panel Back-End (DataBase + PHP)](https://github.com/shahadNa1/Robotic_Arm/tree/main/Control%20Panel%20Task2) 
 
-Connect Robot Control panel with database using php, and PHPMyAdmin.
+Connect Robot Control panel with database using php, and MySQL.
 
-## Note 
-" index.php" This file contains the front-end HTML part and the PHP part for handling the "Save" button whose function is to make the directive on the same page; We don't want to go to another page.
+
