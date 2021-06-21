@@ -6,7 +6,7 @@ Summer training 2020 at Smart Methods Company.
 
 ## Task 
 
-- Task 1: Robot Control Panel Front-End (HTML + CSS + JavaScript)
+- Task 1: [Robot Control Panel Front-End (HTML + CSS + JavaScript)](https://github.com/shahadNa1/Robotic_Arm/tree/main/Contorl%20Panel%20Task%201)
 
 Design Robot Control panel with Five sliders for each Motor and 2 Button Save and ON.
 
