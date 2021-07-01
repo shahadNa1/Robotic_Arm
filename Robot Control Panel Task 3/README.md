@@ -3,7 +3,7 @@
 Web view a Robot Control panel on mobile.
 
 # Requirement 
- in same page of web click right ( select Inspect)
+ On the same page of the web click right ( select Inspect)
  
  # Screenshots
 <img width="541" alt="Capture2" src="https://user-images.githubusercontent.com/50388183/124144890-08f22000-da95-11eb-8196-48eb931c6ab4.PNG">
