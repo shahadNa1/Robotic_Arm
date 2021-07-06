@@ -1,4 +1,3 @@
-# Robotic_Arm
 
 ## Smart Methods
 
