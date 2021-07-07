@@ -17,7 +17,7 @@ Connect Robot Control panel with database using php, and MySQL.
 
 Web view a Robot Control panel on mobile + Direction Control
 
-- Task 4: IBM Watson Assistant
+- Task 4: [IBM Watson Assistant](https://github.com/shahadNa1/SmartMethod/tree/main/IBM%20Watson%20Assistant%20Task%204)
 
 Create assistant and export skill as JSON file.
 
