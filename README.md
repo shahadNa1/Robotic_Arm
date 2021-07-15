@@ -1,7 +1,7 @@
 
 ## Smart Methods
 
-Summer training 2020 at Smart Methods Company.
+Summer training 2021 at Smart Methods Company.
 
 ## Task 
 
