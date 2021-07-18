@@ -1,4 +1,4 @@
-# robotic-arm and end-effector
+# Robotic-arm and End-effector
 
 The robotic arm was installed through a 3D design program. Of course, I used some references to be able to design the robotic arm:
 
