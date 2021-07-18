@@ -28,4 +28,4 @@ Integrate Web chat with Website.
 
 - Task 6: [STT-TTS-IBM Watson]
 
-Python application that uses a IBM Watson services speech to text and text to speech,
+Python application that uses a IBM Watson services speech to text and text to speech,Watson Assistant. 
