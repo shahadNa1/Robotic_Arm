@@ -1,14 +1,27 @@
-# Robotic-arm and End-effector
+# Robotic-arm 
 
-The robotic arm was installed through a 3D design program. Of course, I used some references to be able to design the robotic arm:
+In this project we want to simulate the process of building the robot arm, we connect the parts together using 3d builder.
 
-1- I downloaded the files for the arm
+# Get The Arm Parts
+Go to (https://github.com/smart-methods/arduino_robot_arm) and download the project , you will find the required files under the psth (arduino_robot_arm/robot_arm_pkg/meshes/stl)
 
-2- Download the builder 3d program
+# Download 3d builder
+Visit the following link (https://3d-builder.en.softonic.com/) where you can download the program.
 
-3- I uploaded all the files to the program, and started installing the hand. 
+# Gather The Parts
+1- Once you open the program you will start with a plain environment, and to add the arm parts go to File >> Open Project or new scene 
 
-4- End Effector.
+![image](https://user-images.githubusercontent.com/50388183/126094023-98d52315-a44c-4d78-9adf-56bdb2e43766.png)
+
+2- Connect the servo motors and the electronics of each part (base, shoulder, elbow, etc.). 
+
+3- Fix the base with screws on. 
+
+4- Attach the base servo motor to the waist. 
+
+5- Attach the clutch to the arm to the arm 
+
+6- Then connect the two groups together 
 
 # references
 
