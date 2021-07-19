@@ -4,14 +4,11 @@ In this project we will use the help of IBM watson services to convert text to s
 
 # Text To Speech (TTS)
 
-I used Jupyter Notebook in VScode. and in the step i want to convert our text into an audio using the following code lines, I started by creating passing the text into get function
-(with open('./speech.mp3', 'wb') as audio_file:
-    res = tts.synthesize('hi everyone thank you so much!', accept='audio/mp3', voice='en-US_AllisonV3Voice').get_result()
-    audio_file.write(res.content)
-    which will convert the text into the audio file and then save it under the name (winston.mp3) 
-and the mp3 file will be found with the rest of the project files after running the code :
+I used Jupyter Notebook in VScode. and in this step, I want to convert our text into audio using the following code, which will convert the text after reading from a file into the audio file and then save it under the name (winston.mp3) 
 
 ![image](https://user-images.githubusercontent.com/50388183/126089106-6145ba95-fb3d-40a5-b222-6657a56cd27f.png)
+
+![image](https://user-images.githubusercontent.com/50388183/126090585-c905d7a8-52b1-4afd-a820-785560e731a9.png)
 
 # MP3 FILE
 
