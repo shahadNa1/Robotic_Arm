@@ -44,4 +44,4 @@ used IBM Watson services text to speech and Jupyter Notebook.
 
 - Task 9 Ros installation: [Ros installation](https://github.com/shahadNa1/SmartMethod/tree/main/Ros%20installation%20Task%209) 
 
-Robot-operating-system-installation-and-configuration
+Robot operating system installation and configuration
