@@ -38,6 +38,6 @@ used IBM Watson services text to speech and Jupyter Notebook.
 
  building the robot arm 3d.
  
- - Task 7 Mechanical Task 2: [End effector](https://github.com/shahadNa1/SmartMethod/tree/main/Mechanical%20Task%202) 
+ - Task 8 Mechanical Task 2: [End effector](https://github.com/shahadNa1/SmartMethod/tree/main/Mechanical%20Task%202) 
 
  Add end effector for arm
