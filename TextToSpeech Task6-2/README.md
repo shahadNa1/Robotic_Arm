@@ -15,3 +15,9 @@ I used Jupyter Notebook in VScode. and in this step, I want to convert our text 
 After running the program it converted the after reading from a File automatically into mp3 file as you can hear in this video:
 
 https://user-images.githubusercontent.com/50388183/126090266-003e55f7-ca94-4fac-a55e-1d8a54c5d477.mp4
+
+
+# References
+1- https://youtu.be/8k8S5ruFAUs
+
+2- https://youtu.be/khBVC3Sr6z8
