@@ -26,6 +26,10 @@ Create assistant and export skill as JSON file.
 Integrate Web chat with Website.
 
 
-- Task 6: [STT-TTS-IBM Watson]() 
+- Task 6: [STT IBM Watson](https://github.com/shahadNa1/SmartMethod/tree/main/SpeechToText%20Task%206) 
 
-Python application that uses a IBM Watson services speech to text and text to speech,Watson Assistant. 
+used IBM Watson services speech to text and and Jupyter Notebook.
+
+- Task 6-2: [TTS IBM Watson](https://github.com/shahadNa1/SmartMethod/tree/main/TextToSpeech%20Task6-2) 
+
+used IBM Watson services text to speech and Jupyter Notebook.
