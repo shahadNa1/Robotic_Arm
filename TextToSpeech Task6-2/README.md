@@ -18,9 +18,3 @@ and the mp3 file will be found with the rest of the project files after running 
 After running the program it converted the after reading from a File automatically into mp3 file as you can hear in this video:
 
 https://user-images.githubusercontent.com/50388183/126090266-003e55f7-ca94-4fac-a55e-1d8a54c5d477.mp4
-
-
-# Text file 
-After running the program it converted automatically into a text file
-
-![image](https://user-images.githubusercontent.com/50388183/126090088-201cea45-8749-4ed8-a9e3-590fdfcd2851.png)
