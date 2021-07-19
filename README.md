@@ -33,3 +33,7 @@ used IBM Watson services speech to text and and Jupyter Notebook.
 - Task 6-2: [TTS IBM Watson](https://github.com/shahadNa1/SmartMethod/tree/main/TextToSpeech%20Task6-2) 
 
 used IBM Watson services text to speech and Jupyter Notebook.
+
+- Task 7 Mechanical Task 1: [Robotic-arm](https://github.com/shahadNa1/SmartMethod/tree/main/Mechanical%20Task%201) 
+
+ building the robot arm 3d.
