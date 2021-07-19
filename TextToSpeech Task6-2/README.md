@@ -18,6 +18,8 @@ https://user-images.githubusercontent.com/50388183/126090266-003e55f7-ca94-4fac-
 
 
 # References
-1- https://youtu.be/8k8S5ruFAUs
+1- https://youtu.be/8k8S5ruFAUs 
 
 2- https://youtu.be/khBVC3Sr6z8
+
+3- https://github.com/nicknochnack/TextToSpeech
