@@ -35,3 +35,5 @@ After running the program it converted my final speech automatically into a text
 1- https://youtu.be/A9_0OgW1LZU
 
 2- https://youtu.be/ZTIjEjeJmwU
+
+3- https://github.com/nicknochnack/WatsonSTT
