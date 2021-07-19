@@ -15,9 +15,9 @@ and the mp3 file will be found with the rest of the project files after running 
 
 # MP3 FILE
 
+After running the program it converted the after reading from a File automatically into mp3 file as you can hear in this video:
 
-Uploading Groove Music 2021-07-19 04-28-08.mp4…
-
+https://user-images.githubusercontent.com/50388183/126090266-003e55f7-ca94-4fac-a55e-1d8a54c5d477.mp4
 
 
 # Text file 
