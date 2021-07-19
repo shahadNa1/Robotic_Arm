@@ -41,3 +41,7 @@ used IBM Watson services text to speech and Jupyter Notebook.
  - Task 8 Mechanical Task 2: [End effector](https://github.com/shahadNa1/SmartMethod/tree/main/Mechanical%20Task%202) 
 
  Add end effector for arm
+
+- Task 9 Ros installation: [Ros installation](https://github.com/shahadNa1/SmartMethod/tree/main/Ros%20installation%20Task%209) 
+
+Robot-operating-system-installation-and-configuration
