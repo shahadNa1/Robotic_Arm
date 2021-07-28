@@ -54,6 +54,9 @@ Indoor navigation system for mobile robot design and implementation
 
  Simulate the robot’s eyes
 
-- Task 12 Electroinc Task 2: [-](https://github.com/shahadNa1/SmartMethod/tree/main/Electroinc%20Task%2011) 
+- Task 12 Electroinc Task 2: [H bridge Motor](https://github.com/shahadNa1/SmartMethod/tree/main/Electroinc%20Task%2012) 
+
+Use the Arduino  to control 2 DC motors with H-brage l298
+
 
 
